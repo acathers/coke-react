@@ -1,0 +1,36 @@
+
+body {
+  background-color: #e41e28 !important;
+}
+
+.ui.footer.container a {
+  color: white !important;
+
+}
+
+.background {
+  background-image: url("./res/img/background.jpg");
+}
+
+.ui.menu.borderless {
+  border: 0 none !important;
+  box-shadow: none;
+}
+
+
+.footer.div {
+  background-color: #e41e28;
+}
+
+.footer.container {
+  padding-top: 3%;
+
+}
+
+.ui.divided {
+  color: white !important;
+}
+
+.bottombar {
+  color: white !important;
+}
