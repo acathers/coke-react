@@ -34,3 +34,13 @@ body {
 .bottombar {
   color: white !important;
 }
+
+.holder {
+  min-width: 600px !important;
+
+}
+.holder.pic {
+  min-width: 599px !important;
+  max-height: 200px !important;
+
+}
